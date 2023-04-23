@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "image": "../img/sneakers/sneakers1.jpg",
+    "title": "Man's sneakers Nike Blazer Mid Suede",
+    "price": "155"
+  },
+  {
+    "id": 1,
+    "image": "../img/sneakers/sneakers2.jpg",
+    "title": "Man's sneakers Nike Air Max 270",
+    "price": "210"
+  },
+  {
+    "id": 2,
+    "image": "../img/sneakers/sneakers3.jpg",
+    "title": "Man's sneakers Nike Air Max 270",
+    "price": "135"
+  },
+  {
+    "id": 3,
+    "image": "../img/sneakers/sneakers4.jpg",
+    "title": "Man's sneakers Puma X Aka Boku Future Rider",
+    "price": "200"
+  },
+  {
+    "id": 4,
+    "image": "../img/sneakers/sneakers5.jpg",
+    "title": "Man's sneakers Under Armour Curry 8",
+    "price": "80"
+  },
+  {
+    "id": 5,
+    "image": "../img/sneakers/sneakers6.jpg",
+    "title": "Man's sneakers Nike Kyrie 7",
+    "price": "115"
+  },
+  {
+    "id": 6,
+    "image": "../img/sneakers/sneakers7.jpg",
+    "title": "Man's sneakers Jordan Air Jordan 11",
+    "price": "120"
+  },
+  {
+    "id": 7,
+    "image": "../img/sneakers/sneakers8.jpg",
+    "title": "Man's sneakers Nike LeBron XVIII",
+    "price": "120"
+  },
+  {
+    "id": 8,
+    "image": "../img/sneakers/sneakers9.jpg",
+    "title": "Man's sneakers Nike Lebron XVIII Low",
+    "price": "250"
+  },
+  {
+    "id": 9,
+    "image": "../img/sneakers/sneakers10.png",
+    "title": "Man's sneakers Nike Blazer Mid Suede",
+    "price": "300"
+  },
+  {
+    "id": 10,
+    "image": "../img/sneakers/sneakers11.png",
+    "title": "Man's sneakers Puma X Aka Boku Future Rider",
+    "price": "450"
+  },
+  {
+    "id": 11,
+    "image": "../img/sneakers/sneakers12.jpg",
+    "title": "Man's sneakers Nike Kyrie Flytrap IV",
+    "price": "250"
+  },
+  {
+    "id": 12,
+    "image": "../img/sneakers/sneakers1.jpg",
+    "title": "Man's sneakers Puma X Aka Boku Future Rider",
+    "price": "450"
+  },
+  {
+    "id": 13,
+    "image": "../img/sneakers/sneakers2.jpg",
+    "title": "Man's sneakers Nike Kyrie Flytrap IV",
+    "price": "250"
+  },
+  {
+    "id": 14,
+    "image": "../img/sneakers/sneakers1.jpg",
+    "title": "Man's sneakers Puma X Aka Boku Future Rider",
+    "price": "450"
+  },
+  {
+    "id": 15,
+    "image": "../img/sneakers/sneakers2.jpg",
+    "title": "Man's sneakers Nike Kyrie Flytrap IV",
+    "price": "250"
+  }
+]
