@@ -1,6 +1,10 @@
 import React from "react";
 
 function Card({ image, title, price }) {
+  const onClickButton = () => {
+    alert(1);
+  };
+
   return (
     <div className="card">
       <div className="card__img-unlike">
@@ -21,7 +25,7 @@ function Card({ image, title, price }) {
           <h3>{price} $</h3>
         </div>
         <div className="card__box__button">
-          <button className="card__box__button__img">
+          <button className="card__box__button__img" onClick={onClickButton}>
             <img width={11} height={11} src="/img/button.svg" alt="plus" />
           </button>
         </div>

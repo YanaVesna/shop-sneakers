@@ -3,9 +3,16 @@ import "./scss/app.scss";
 import Header from "./components/Header";
 import Card from "./components/Card";
 import cards from "./assets/cards.json";
+import Skeleton from "./components/Card/Skeleton";
 
-function App() {
+function App(props) {
   const [items, setItems] = React.useState([]);
+
+  React.useEffect(() => {
+    fetch("https://64365ecf8205915d34f1b803.mockapi.io/items")
+      .then((res) => res.json())
+      .then((arr) => setItems(arr));
+  }, []);
 
   return (
     <div className="wrapper">
